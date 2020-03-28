@@ -9,6 +9,7 @@
 - 网卡:DW1820a
 
 ## 2、注意
+- 已刷解锁CFG版本Bios，相关资源请百度@dsanke，同时感谢dsanke；
 - 原则上W650型号模具通用，但有些硬件不同，请根据个人机型硬件，删除对应驱动Kext，或修改config
 - 本配置跟**CeWnHai**区别仅在于USBPort.kext：主板型号不同，对应的USB控制器不相同。于是使用HackinTools定制USBPort.kext。
   感谢[@黑果小兵](https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html)的USB定制教程。
