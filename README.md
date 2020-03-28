@@ -1,6 +1,6 @@
 # W650KL 蓝天模具 炫龙毁灭者DC 锋刃版
 
-** 本Clover配置全部借鉴远景论坛[@CeWnHai](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1831835&highlight=w650)**，感谢！
+**本Clover配置全部借鉴远景论坛[@CeWnHai](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1831835&highlight=w650)**，感谢！
 ## 1、机器配置
 
 - CPU:i38100 (原G4560)
